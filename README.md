@@ -1,4 +1,4 @@
-url:
+url:https://ziewy99.github.io/01_snakegame/
 
 
 # 🐍 Snake Game
