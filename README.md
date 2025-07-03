@@ -1,7 +1,7 @@
 url:https://ziewy99.github.io/01_snakegame/
 
 
-# 🐍 Snake Game
+# Snake Game
 
 ## 概要
 
